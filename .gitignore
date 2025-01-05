@@ -1,6 +1,7 @@
-*.iml
+# Gradle
 .gradle
 /local.properties
+/.idea/
 /.idea/caches
 /.idea/libraries
 /.idea/modules.xml
@@ -8,8 +9,36 @@
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
 .DS_Store
+
+# Android Studio generated files
 /build
 /captures
 .externalNativeBuild
 .cxx
+
+# IntelliJ
+*.iml
+.idea/
+
+# APK and Packaging
+*.apk
+*.ap_
+*.aab
+
+# Unit test reports
+/test-results
+
+# Logs
+*.log
+
+# Temporary files
+*.temp
+*.tmp
+*.swp
+*~
+
+# MacOS-specific files
+.DS_Store
+
+# Other
 local.properties
