@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable circle_shape
+drawable ic_apple
+drawable ic_facebook
+drawable ic_google
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id main
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.LoginPageHomework
+style Theme.LoginPageHomework
+xml backup_rules
+xml data_extraction_rules

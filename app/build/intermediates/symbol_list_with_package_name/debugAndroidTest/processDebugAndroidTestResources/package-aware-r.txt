@@ -1,0 +1,3 @@
+com.example.loginpagehomework.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

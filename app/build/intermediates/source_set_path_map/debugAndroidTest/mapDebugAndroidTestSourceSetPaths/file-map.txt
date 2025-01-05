@@ -1,0 +1,6 @@
+com.example.loginpagehomework.test.app-tracing-1.2.0-0 C:\Users\UMRZOQ\.gradle\caches\8.9\transforms\7818abf09245d942e60c31901b6969f5\transformed\tracing-1.2.0\res
+com.example.loginpagehomework.test.app-core-1.6.1-1 C:\Users\UMRZOQ\.gradle\caches\8.9\transforms\d4004a4b3bb34736c32c3c003ea105b2\transformed\core-1.6.1\res
+com.example.loginpagehomework.test.app-androidTest-2 D:\ANDROID\LoginPageHomework\app\build\generated\res\resValues\androidTest\debug
+com.example.loginpagehomework.test.app-mergeDebugAndroidTestResources-3 D:\ANDROID\LoginPageHomework\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.loginpagehomework.test.app-mergeDebugAndroidTestResources-4 D:\ANDROID\LoginPageHomework\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.loginpagehomework.test.app-debugAndroidTest-5 D:\ANDROID\LoginPageHomework\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
